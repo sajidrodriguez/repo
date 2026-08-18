@@ -6,7 +6,6 @@ Construyo sistemas que conectan IA, datos y operación. Convierto necesidades
 ambiguas en software estable, seguro y comprensible para el negocio.
 
 [Explorar la interfaz profesional](https://sajidrodriguez.github.io/repo/) ·
-[LinkedIn](https://www.linkedin.com/in/sajidrodriguez/) ·
 [Jit De Flou](https://jitdeflou.com) ·
 [Mobilec](https://mobilec.com.mx)
 
@@ -68,5 +67,4 @@ de empleadores o clientes, secretos, endpoints, payloads ni evidencia privada.
 ## Conversación
 
 Si uno de estos dominios se parece a un problema que estás resolviendo,
-[conectemos en LinkedIn](https://www.linkedin.com/in/sajidrodriguez/) o
 [escríbeme por correo](mailto:sajidrodriguez.ai@gmail.com).
