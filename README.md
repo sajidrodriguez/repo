@@ -55,7 +55,7 @@ exponer código propietario, datos de clientes ni topología operativa sensible.
 ventas → datos → automatización → nube → sistemas full-stack
 ```
 
-- **Mobilec Satelital · Etapa concluida; ingreso en marzo de 2025.** Innovación digital,
+- **Mobilec Satelital · Marzo de 2025–septiembre de 2026.** Innovación digital,
   automatización y sistemas full-stack.
 - **Jit De Flou · 2024–actualidad.** Fundador y desarrollador de producto.
   Business as Labs: laboratorio de negocio, software, producto y experimentación;

@@ -19,7 +19,7 @@ Entré en marzo de 2025 como Coordinador de Innovación Digital y
 Automatización. El alcance creció hasta diseñar, construir y sostener las
 aplicaciones full-stack críticas de la empresa como único desarrollador.
 
-Esta etapa laboral concluyó. El trabajo abarcó dirección, ventas, soporte y
+Esta etapa laboral concluyó en septiembre de 2026. El trabajo abarcó dirección, ventas, soporte y
 proveedores; asumí arquitectura, producto, datos, infraestructura, seguridad,
 mantenimiento y traducción técnica para audiencias no especializadas.
 Actualmente estoy disponible para incorporación inmediata mediante contrato laboral.
