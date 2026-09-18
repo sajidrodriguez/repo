@@ -8,6 +8,9 @@ Diseño superficies que vuelven comprensible una propuesta técnica y conectan
 adquisición, producto y operación. La forma no adorna el fondo: reduce fricción
 y hace visible el valor.
 
+Los estados de los proyectos de Mobilec corresponden a mi etapa laboral allí,
+ya concluida; no describen mantenimiento actual a mi cargo.
+
 ## Implementaciones seleccionadas
 
 ### Studio · producción
@@ -18,8 +21,9 @@ continuar la interacción y apoyar una cotización.
 
 ### Jit De Flou LP · superficie pública
 
-Interfaz de una startup tecnológica en etapa pre-operativa. Organiza servicios,
-lenguaje y recorrido comercial con una estética propia de la industria tech.
+Sitio publicado de Business as Labs, un laboratorio de negocio, software,
+producto y experimentación. Conecta la presentación del laboratorio con el
+agente Flou y la continuidad hacia atención humana.
 
 ### Radar Inmobiliario · histórico
 

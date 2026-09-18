@@ -19,15 +19,19 @@ Entré en marzo de 2025 como Coordinador de Innovación Digital y
 Automatización. El alcance creció hasta diseñar, construir y sostener las
 aplicaciones full-stack críticas de la empresa como único desarrollador.
 
-El trabajo cruza dirección, ventas, soporte y proveedores. La responsabilidad
-incluye arquitectura, producto, datos, infraestructura, seguridad,
+Esta etapa laboral concluyó. El trabajo abarcó dirección, ventas, soporte y
+proveedores; asumí arquitectura, producto, datos, infraestructura, seguridad,
 mantenimiento y traducción técnica para audiencias no especializadas.
+Actualmente estoy disponible para incorporación inmediata mediante contrato laboral.
 
 ## Jit De Flou
 
-Fundé la startup y dirijo su etapa pre-operativa hacia el mercado. Además del
-producto y la ingeniería, conduje su constitución, registro institucional y
-apertura de capacidades financieras para operar.
+Fundé Jit De Flou y lo desarrollo como Business as Labs: un laboratorio de
+negocio, software, producto y experimentación. Construí y publiqué el sitio,
+el agente Flou y una bandeja para continuar las conversaciones personalmente.
+Desarrollo una aplicación para una primera clienta formal en terapia de
+lenguaje, bajo un servicio con pago mensual. Esta actividad es compatible
+con mi incorporación laboral a otra empresa.
 
 ## Top Secret
 

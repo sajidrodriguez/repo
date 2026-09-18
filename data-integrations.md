@@ -8,6 +8,9 @@ Conecto servicios externos sin entregarles la autoridad total sobre los datos o
 la operación. Diseño capas que validan, normalizan y vuelven utilizable la
 información para distintas áreas del negocio.
 
+Los estados de los proyectos de Mobilec corresponden a mi etapa laboral allí,
+ya concluida; no describen mantenimiento actual a mi cargo.
+
 ## Implementaciones seleccionadas
 
 ### Mobilec Hub · producción

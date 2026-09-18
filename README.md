@@ -9,6 +9,10 @@ ambiguas en software estable, seguro y comprensible para el negocio.
 [Jit De Flou](https://jitdeflou.com) ·
 [Mobilec](https://mobilec.com.mx)
 
+**Disponible para incorporación inmediata mediante contrato laboral.**
+Busco integrarme a un equipo y aportar en backend, integraciones e IA aplicada.
+Contacto personal: [sajidrodriguez.ai@gmail.com](mailto:sajidrodriguez.ai@gmail.com).
+
 ## El sistema
 
 Esta es la documentación de una carrera tratada como producto: una interfaz
@@ -51,14 +55,19 @@ exponer código propietario, datos de clientes ni topología operativa sensible.
 ventas → datos → automatización → nube → sistemas full-stack
 ```
 
-- **Mobilec Satelital · 2025–actualidad.** Innovación digital,
+- **Mobilec Satelital · Etapa concluida; ingreso en marzo de 2025.** Innovación digital,
   automatización y sistemas full-stack.
-- **Jit De Flou · 2024–actualidad.** Fundador y CEO; startup en etapa
-  pre-operativa hacia su salida al mercado.
+- **Jit De Flou · 2024–actualidad.** Fundador y desarrollador de producto.
+  Business as Labs: laboratorio de negocio, software, producto y experimentación;
+  sitio, agente Flou y bandeja de atención operativos, con una primera clienta de pago.
 - **Top Secret Desarrollos · 2024.** Punto de transición desde ventas hacia
   datos, IA, automatización e infraestructura.
 
 ## Estado y límites
+
+Mi etapa laboral en Mobilec concluyó. Los estados de sus sistemas describen
+el trabajo realizado durante esa etapa; no implican mantenimiento actual a mi cargo.
+Mi actividad en Jit De Flou es compatible con mi incorporación a un empleo.
 
 Las capacidades se distinguen por estado: producción, implementada pendiente
 de aprobación, transición o histórica. Esta documentación no contiene código

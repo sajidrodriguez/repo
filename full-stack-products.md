@@ -8,6 +8,9 @@ Construyo productos completos: interfaz, autenticación, persistencia,
 integraciones, analítica, despliegue y mantenimiento. El objetivo no es sólo
 entregar una feature, sino sostener una superficie que el negocio pueda usar.
 
+Los estados de los proyectos de Mobilec corresponden a mi etapa laboral allí,
+ya concluida; no describen mantenimiento actual a mi cargo.
+
 ## Implementaciones seleccionadas
 
 ### Mobilec WebCorp · producción
@@ -38,6 +41,6 @@ y adquisición.
 
 ## Estado operativo
 
-Las aplicaciones críticas reciben mantenimiento periódico y han sostenido
-meses de operación estable. Los detalles internos, repositorios y métricas
-corporativas permanecen privados.
+Durante mi etapa en Mobilec, las aplicaciones críticas recibieron mantenimiento
+periódico y sostuvieron meses de operación estable. Esa relación laboral concluyó.
+Los detalles internos, repositorios y métricas corporativas permanecen privados.

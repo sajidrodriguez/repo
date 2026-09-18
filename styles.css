@@ -147,6 +147,20 @@ a {
   line-height: 1.42;
 }
 
+.hero__availability {
+  margin: 24px 0 0;
+  color: var(--accent);
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 650;
+}
+
+.evidence-context {
+  max-width: 760px;
+  color: var(--paper-muted);
+  line-height: 1.5;
+}
+
 .mode-card {
   position: relative;
   padding: 32px 34px;

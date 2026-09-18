@@ -8,6 +8,9 @@ Diseño asistentes que reconocen intención, consultan información, usan
 herramientas y saben cuándo devolver el control a una persona. La IA no vive
 aislada: forma parte de un sistema operativo con límites claros.
 
+Los estados de los proyectos de Mobilec corresponden a mi etapa laboral allí,
+ya concluida; no describen mantenimiento actual a mi cargo.
+
 ## Implementaciones seleccionadas
 
 ### Mobibot AI · producción
@@ -23,10 +26,11 @@ La experiencia de voz en tiempo real está construida y fue probada en un canal
 controlado. Su disponibilidad comercial depende del visto bueno de dirección;
 no se presenta como una función activa para clientes.
 
-### Jit De Flou Assistant · transición
+### Flou · operativo
 
-Asistente propio en refactor hacia una arquitectura serverless para sustituir
-la ejecución permanente de un servidor por funciones bajo demanda.
+Agente virtual de Jit De Flou conectado a una bandeja de atención que permite
+tomar las conversaciones y continuarlas personalmente. El sitio, el agente y
+la bandeja están publicados y operativos.
 
 ### TopBot · histórico
 
