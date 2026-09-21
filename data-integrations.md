@@ -23,7 +23,7 @@ sistema evolucione sin exponer directamente los servicios operativos.
 
 Capa de datos propia que consolida información procedente de distintos
 proveedores. Reduce acoplamiento, conserva una representación coherente y
-permite sustituir servicios sin perder continuidad conceptual.
+facilita la sustitución progresiva de servicios manteniendo un modelo de datos coherente.
 
 ## Decisiones y trade-offs
 

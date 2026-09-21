@@ -1,9 +1,12 @@
 # Sajid Rodriguez
 
-**Full-stack product engineer**
+**Ingeniero de Sistemas Empresariales | Backend y Arquitectura de IA**
+
+Enterprise Systems Engineer · Arquitectura de sistemas · Backend · Integraciones · IA aplicada
 
 Construyo sistemas que conectan IA, datos y operación. Convierto necesidades
-ambiguas en software estable, seguro y comprensible para el negocio.
+ambiguas en software estable, seguro y comprensible para el negocio. Asumo arquitectura, datos, infraestructura,
+seguridad y mantenimiento, en colaboración con dirección, ventas, marketing y soporte.
 
 [Explorar la interfaz profesional](https://sajidrodriguez.github.io/repo/) ·
 [Jit De Flou](https://jitdeflou.com) ·
@@ -25,7 +28,10 @@ quiera inspeccionar cómo trabajo.
 | Datos e integraciones | APIs y capas de datos que vuelven operable la información | [`data-integrations.md`](./data-integrations.md) |
 | Productos full-stack | Productos completos, de la interfaz a la persistencia y la operación | [`full-stack-products.md`](./full-stack-products.md) |
 | Interfaces de crecimiento | Experiencias que conectan marketing, producto y operación | [`growth-interfaces.md`](./growth-interfaces.md) |
-| Ownership y operación | Trabajo sostenido cuando el problema aún no viene especificado | [`ownership-operations.md`](./ownership-operations.md) |
+
+**Práctica transversal: [Ownership y operación](./ownership-operations.md).**
+Responsabilidad técnica de extremo a extremo en los cuatro dominios: decisiones
+de arquitectura, seguridad, despliegue, mantenimiento y coordinación entre áreas.
 
 ## Caso seleccionado
 
@@ -49,13 +55,19 @@ equipos humanos + dispositivos físicos
 La representación es deliberadamente abstracta: muestra criterio de diseño sin
 exponer código propietario, datos de clientes ni topología operativa sensible.
 
+## Tecnologías en contexto
+
+- **Mobibot AI y Mobilec Hub:** JavaScript/TypeScript y Node.js para servicios e integraciones; PostgreSQL para datos; Redis/BullMQ para colas y procesamiento en segundo plano; AWS EC2 para operación.
+- **Mobilec WebCorp:** React, Next.js y TypeScript para el sitio y el dashboard; Google Analytics para analítica; Firebase App Hosting para despliegues vinculados a GitHub.
+- **Automatización editorial de WebCorp:** GitHub Actions ejecutaba semanalmente la actualización de noticias con Gemini.
+
 ## Trayectoria
 
 ```text
 ventas → datos → automatización → nube → sistemas full-stack
 ```
 
-- **Mobilec Satelital · Marzo de 2025–septiembre de 2026.** Innovación digital,
+- **Mobilec Satelital · Marzo de 2025–septiembre de 2026.** Arquitectura de software,
   automatización y sistemas full-stack.
 - **Jit De Flou · 2024–actualidad.** Fundador y desarrollador de producto.
   Business as Labs: laboratorio de negocio, software, producto y experimentación;

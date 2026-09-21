@@ -127,6 +127,17 @@ a {
   font-weight: 800;
 }
 
+.hero .eyebrow {
+  margin-bottom: 10px;
+}
+
+.hero__specialty {
+  margin: 0 0 30px;
+  color: #c7d0d4;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
 .hero h1 {
   max-width: 780px;
   margin: 0;
@@ -564,6 +575,45 @@ a {
   line-height: 1.45;
 }
 
+.stack-context {
+  padding-top: 48px;
+}
+
+.stack-context .micro-label {
+  color: var(--paper-muted);
+}
+
+.stack-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 28px;
+  margin-top: 24px;
+}
+
+.stack-grid h4 {
+  margin: 0 0 12px;
+  font-size: 20px;
+}
+
+.stack-grid p {
+  margin: 0;
+  color: var(--paper-muted);
+  line-height: 1.55;
+}
+
+.ownership-link {
+  display: inline-block;
+  margin-top: 30px;
+  color: #007f76;
+  font-weight: 750;
+  text-underline-offset: 4px;
+}
+
+a:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 5px;
+}
+
 .signals {
   padding-block: 54px;
 }
@@ -683,7 +733,10 @@ a {
   align-items: center;
   justify-content: center;
   min-height: 54px;
-  padding: 0 22px;
+  padding: 16px 22px;
+  max-width: 100%;
+  text-align: center;
+  line-height: 1.4;
   border: 1px solid var(--accent);
   border-radius: 12px;
   color: var(--accent);
@@ -816,6 +869,7 @@ a {
     gap: 10px;
   }
 
+  .stack-grid,
   .ownership-grid {
     grid-template-columns: 1fr;
     gap: 28px;

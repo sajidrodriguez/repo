@@ -15,9 +15,14 @@ ya concluida; no describen mantenimiento actual a mi cargo.
 
 ### Mobilec WebCorp · producción
 
-Aplicación web con captación de leads, autenticación y dashboard. Reúne una
-superficie pública de adquisición con capacidades internas de seguimiento para
-ventas.
+Aplicación construida con React, Next.js y TypeScript. Reúne el sitio público
+y la captación de leads con un dashboard corporativo enlazado con Google Analytics,
+autenticación de sesión y herramientas para administración y ventas. La extensión
+a soporte técnico estaba prevista al concluir mi etapa.
+
+Los despliegues en Firebase App Hosting se activaban mediante push al repositorio
+de GitHub. Un flujo programado en GitHub Actions actualizaba semanalmente las
+noticias con Gemini: automatización editorial complementaria al despliegue.
 
 ### Mobibot AI + Mobilec Hub · producción
 

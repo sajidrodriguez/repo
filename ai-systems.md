@@ -6,7 +6,7 @@
 
 Diseño asistentes que reconocen intención, consultan información, usan
 herramientas y saben cuándo devolver el control a una persona. La IA no vive
-aislada: forma parte de un sistema operativo con límites claros.
+aislada: forma parte de un sistema de operación del negocio con límites claros.
 
 Los estados de los proyectos de Mobilec corresponden a mi etapa laboral allí,
 ya concluida; no describen mantenimiento actual a mi cargo.
@@ -22,9 +22,8 @@ dispositivos físicos.
 
 ### Voz realtime · implementada, pendiente de aprobación
 
-La experiencia de voz en tiempo real está construida y fue probada en un canal
-controlado. Su disponibilidad comercial depende del visto bueno de dirección;
-no se presenta como una función activa para clientes.
+Al concluir mi etapa en Mobilec, la experiencia de voz estaba implementada y
+probada en un entorno controlado, pendiente de aprobación para uso comercial.
 
 ### Flou · operativo
 
@@ -43,8 +42,9 @@ hacia desarrollo, APIs e infraestructura.
 - Separar la conversación de las integraciones críticas.
 - Mantener validación humana para acciones sobre dispositivos físicos.
 - Distinguir una capacidad implementada de una capacidad aprobada para operar.
-- Diseñar módulos reemplazables para que una función pueda retirarse sin
-  interrumpir el núcleo.
+- Permitir desactivar capacidades opcionales, como voz o monitoreo proactivo,
+  sin detener el núcleo conversacional. Este alcance no implica tolerancia a
+  fallos de todos los componentes críticos.
 
 ## Evidencia pública segura
 
