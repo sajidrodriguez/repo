@@ -71,7 +71,7 @@ ventas → datos → automatización → nube → sistemas full-stack
   automatización y sistemas full-stack.
 - **Jit De Flou · 2024–actualidad.** Fundador y desarrollador de producto.
   Business as Labs: laboratorio de negocio, software, producto y experimentación;
-  sitio, agente Flou y bandeja de atención operativos, con una primera clienta de pago.
+  sitio, agente virtual y bandeja de atención operativos, con una primera clienta de pago.
 - **Top Secret Desarrollos · 2024.** Punto de transición desde ventas hacia
   datos, IA, automatización e infraestructura.
 

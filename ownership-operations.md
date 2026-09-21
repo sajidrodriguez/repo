@@ -41,7 +41,7 @@ flujo semanal de GitHub Actions actualizaba las noticias con Gemini.
 
 Fundé Jit De Flou y lo desarrollo como Business as Labs: un laboratorio de
 negocio, software, producto y experimentación. Construí y publiqué el sitio,
-el agente Flou y una bandeja para continuar las conversaciones personalmente.
+el agente virtual y una bandeja para continuar las conversaciones personalmente.
 Desarrollo una aplicación para una primera clienta formal en terapia de
 lenguaje, bajo un servicio con pago mensual. Esta actividad es compatible
 con mi incorporación laboral a otra empresa.

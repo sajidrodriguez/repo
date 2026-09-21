@@ -25,7 +25,7 @@ dispositivos físicos.
 Al concluir mi etapa en Mobilec, la experiencia de voz estaba implementada y
 probada en un entorno controlado, pendiente de aprobación para uso comercial.
 
-### Flou · operativo
+### Agente virtual · operativo
 
 Agente virtual de Jit De Flou conectado a una bandeja de atención que permite
 tomar las conversaciones y continuarlas personalmente. El sitio, el agente y

@@ -23,7 +23,7 @@ continuar la interacción y apoyar una cotización.
 
 Sitio publicado de Business as Labs, un laboratorio de negocio, software,
 producto y experimentación. Conecta la presentación del laboratorio con el
-agente Flou y la continuidad hacia atención humana.
+agente virtual y la continuidad hacia atención humana.
 
 ### Radar Inmobiliario · histórico
 
