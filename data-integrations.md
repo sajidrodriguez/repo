@@ -25,11 +25,6 @@ Capa de datos propia que consolida información procedente de distintos
 proveedores. Reduce acoplamiento, conserva una representación coherente y
 permite sustituir servicios sin perder continuidad conceptual.
 
-### Mobilec Data · soporte arquitectónico
-
-Proyecto paralelo utilizado para comprender, ordenar y resolver el tránsito de
-datos que después sostuvo la arquitectura de Mobilec Hub.
-
 ## Decisiones y trade-offs
 
 - Proteger las integraciones críticas fuera del canal conversacional.
