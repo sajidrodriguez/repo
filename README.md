@@ -1,20 +1,19 @@
 # Sajid Rodriguez
 
-**Ingeniero de Sistemas Empresariales | Backend y Arquitectura de IA**
+**Desarrollador full stack · Diseñador de producto**
 
-Enterprise Systems Engineer · Arquitectura de sistemas · Backend · Integraciones · IA aplicada
+## Diseño y construyo aplicaciones para operar, vender y crecer.
 
-Construyo sistemas que conectan IA, datos y operación. Convierto necesidades
-ambiguas en software estable, seguro y comprensible para el negocio. Asumo arquitectura, datos, infraestructura,
-seguridad y mantenimiento, en colaboración con dirección, ventas, marketing y soporte.
+Conecto operaciones, ventas y marketing mediante flujos de trabajo, bases de
+datos y sistemas a medida. Integro IA cuando aporta una solución útil.
 
 [Explorar la interfaz profesional](https://sajidrodriguez.github.io/repo/) ·
 [Jit De Flou](https://jitdeflou.com) ·
 [Mobilec](https://mobilec.com.mx)
 
 **Disponible para incorporación inmediata mediante contrato laboral.**
-Busco integrarme a un equipo y aportar en backend, integraciones e IA aplicada.
-Contacto personal: [sajidrodriguez.ai@gmail.com](mailto:sajidrodriguez.ai@gmail.com).
+Busco integrarme a un equipo y aportar en desarrollo full stack y diseño de producto.
+Contacto: [jitdeflou@gmail.com](mailto:jitdeflou@gmail.com).
 
 ## El sistema
 
@@ -33,7 +32,20 @@ quiera inspeccionar cómo trabajo.
 Responsabilidad técnica de extremo a extremo en los cuatro dominios: decisiones
 de arquitectura, seguridad, despliegue, mantenimiento y coordinación entre áreas.
 
-## Caso seleccionado
+## Jit De Flou · actividad actual
+
+Diseño, construyo y opero productos en Jit De Flou. Nuestra primera app de
+productividad está en producción desde el **1 de octubre de 2026**. Es privada:
+su acceso, código y datos no forman parte de esta presentación.
+
+Está prevista una aplicación de demostración pública para explorar y probar
+procesos por cuenta propia con datos ficticios, sin necesitar mi presencia.
+También podré acompañar una demostración. Todavía no está disponible.
+
+[Conocer Jit De Flou y sus servicios](https://jitdeflou.com) ·
+[Leer sobre productos y sus estados](./full-stack-products.md)
+
+## Caso seleccionado · Mobilec
 
 En Mobilec diseñé y construí un ecosistema coordinado entre atención
 conversacional y una capa segura de integración. El sistema conecta datos,
@@ -71,7 +83,8 @@ ventas → datos → automatización → nube → sistemas full-stack
   automatización y sistemas full-stack.
 - **Jit De Flou · 2024–actualidad.** Fundador y desarrollador de producto.
   Business as Labs: laboratorio de negocio, software, producto y experimentación;
-  sitio, agente virtual y bandeja de atención operativos, con una primera clienta de pago.
+  en fase operativa, con sitio, agente virtual y bandeja de atención publicados.
+  Primera app de productividad privada en producción desde el **1 de octubre de 2026**.
 - **Top Secret Desarrollos · 2024.** Punto de transición desde ventas hacia
   datos, IA, automatización e infraestructura.
 
@@ -88,4 +101,4 @@ de empleadores o clientes, secretos, endpoints, payloads ni evidencia privada.
 ## Conversación
 
 Si uno de estos dominios se parece a un problema que estás resolviendo,
-[escríbeme por correo](mailto:sajidrodriguez.ai@gmail.com).
+[escríbeme por correo](mailto:jitdeflou@gmail.com).

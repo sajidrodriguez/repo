@@ -28,8 +28,8 @@ probada en un entorno controlado, pendiente de aprobación para uso comercial.
 ### Agente virtual · operativo
 
 Agente virtual de Jit De Flou conectado a una bandeja de atención que permite
-tomar las conversaciones y continuarlas personalmente. El sitio, el agente y
-la bandeja están publicados y operativos.
+tomar las conversaciones y continuarlas personalmente. El agente y la bandeja están operativos.
+Puede explorarse desde el [sitio público de Jit De Flou](https://jitdeflou.com).
 
 ### TopBot · histórico
 

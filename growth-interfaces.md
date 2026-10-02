@@ -19,11 +19,12 @@ Landing page creada para Mobilec que sustituyó la dependencia de una plataforma
 externa. Conecta la propuesta comercial con el canal donde el asistente puede
 continuar la interacción y apoyar una cotización.
 
-### Jit De Flou LP · superficie pública
+### Jit De Flou · sitio público y servicios
 
-Sitio publicado de Business as Labs, un laboratorio de negocio, software,
-producto y experimentación. Conecta la presentación del laboratorio con el
-agente virtual y la continuidad hacia atención humana.
+[Sitio publicado de Jit De Flou](https://jitdeflou.com), en fase operativa.
+Diseñé el recorrido entre la propuesta de servicios, el agente virtual y la
+continuidad hacia atención humana. El estado de los productos se recoge en
+[Productos full-stack](./full-stack-products.md).
 
 ### Radar Inmobiliario · histórico
 

@@ -229,6 +229,49 @@ a {
   background: var(--accent);
 }
 
+/* Current work stays secondary to the employment introduction. */
+.current-work {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  gap: 32px;
+  margin-bottom: 40px;
+  padding: 28px;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  background: var(--surface-soft);
+}
+
+.current-work h2 {
+  margin: 16px 0;
+  font-size: clamp(24px, 3vw, 32px);
+  letter-spacing: -0.025em;
+}
+
+.current-work p:not(.micro-label) {
+  color: #c7d0d4;
+  line-height: 1.5;
+}
+
+.current-work .current-work__note {
+  font-size: 14px;
+}
+
+.work-links {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+}
+
+.work-links a {
+  display: block;
+  padding: 12px 0;
+  color: var(--accent);
+  font-size: 15px;
+  line-height: 1.5;
+  text-underline-offset: 4px;
+}
+
 .domains {
   padding-bottom: 20px;
 }
@@ -817,6 +860,12 @@ a:focus-visible {
   .mode-list::after,
   .mode-list li::after {
     display: none;
+  }
+
+  .current-work {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    padding: 24px;
   }
 
   .domain-grid {

@@ -13,6 +13,16 @@ ya concluida; no describen mantenimiento actual a mi cargo.
 
 ## Implementaciones seleccionadas
 
+### Jit De Flou · app de productividad privada · producción
+
+Primera app de productividad de Jit De Flou, puesta en producción el
+**1 de octubre de 2026**. Mi aportación abarca desarrollo y operación del producto.
+Su acceso, código y datos son privados; esta presentación no los expone.
+
+Está prevista una demo pública e independiente con datos ficticios para probar
+procesos por cuenta propia. Mi acompañamiento será opcional. Aún no está
+disponible y no da acceso a la app privada.
+
 ### Mobilec WebCorp · producción
 
 Aplicación construida con React, Next.js y TypeScript. Reúne el sitio público
@@ -30,11 +40,11 @@ Dos aplicaciones coordinadas que distribuyen responsabilidades entre
 experiencia conversacional e integración operativa. Fueron diseñadas,
 construidas y mantenidas end to end por un único desarrollador.
 
-### Jit De Flou LP · superficie pública
+### Jit De Flou · sitio público y servicios
 
-Producto web orientado a comunicar servicios tecnológicos con claridad
-comercial. La interfaz conecta propuesta de valor, arquitectura de información
-y adquisición.
+[Sitio público de Jit De Flou](https://jitdeflou.com), en fase operativa.
+Conecta servicios, agente virtual y atención humana. Su recorrido comercial
+se describe en [Interfaces de crecimiento](./growth-interfaces.md).
 
 ## Criterio de producto
 

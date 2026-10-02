@@ -42,9 +42,12 @@ flujo semanal de GitHub Actions actualizaba las noticias con Gemini.
 Fundé Jit De Flou y lo desarrollo como Business as Labs: un laboratorio de
 negocio, software, producto y experimentación. Construí y publiqué el sitio,
 el agente virtual y una bandeja para continuar las conversaciones personalmente.
-Desarrollo una aplicación para una primera clienta formal en terapia de
-lenguaje, bajo un servicio con pago mensual. Esta actividad es compatible
-con mi incorporación laboral a otra empresa.
+Jit De Flou está en fase operativa: el **1 de octubre de 2026** pusimos en
+producción nuestra primera app de productividad privada. Asumo el desarrollo
+y la operación; el acceso, código y datos de la app permanecen privados.
+La demo pública está prevista para exploración autónoma, con acompañamiento
+opcional; todavía no está disponible.
+Esta actividad es compatible con mi incorporación laboral a otra empresa.
 
 ## Top Secret
 
