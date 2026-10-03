@@ -11,7 +11,7 @@ datos y sistemas a medida. Integro IA cuando aporta una solución útil.
 [Jit De Flou](https://jitdeflou.com) ·
 [Mobilec](https://mobilec.com.mx)
 
-**Disponible para incorporación inmediata mediante contrato laboral.**
+**Disponible para incorporación inmediata**
 Busco integrarme a un equipo y aportar en desarrollo full stack y diseño de producto.
 Contacto: [jitdeflou@gmail.com](mailto:jitdeflou@gmail.com).
 
