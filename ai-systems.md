@@ -1,0 +1,55 @@
+# Sistemas inteligentes
+
+[← Volver al mapa](./README.md)
+
+## Qué resuelvo
+
+Diseño asistentes que reconocen intención, consultan información, usan
+herramientas y saben cuándo devolver el control a una persona. La IA no vive
+aislada: forma parte de un sistema de operación del negocio con límites claros.
+
+Los estados de los proyectos de Mobilec corresponden a mi etapa laboral allí,
+ya concluida; no describen mantenimiento actual a mi cargo.
+
+## Implementaciones seleccionadas
+
+### Asistente conversacional con IA y transferencia a humano · producción
+
+Orquestación conversacional para atención y soporte. Conecta las solicitudes de
+clientes con capacidades operativas mediante una aplicación intermedia
+separada. Incluye transferencia a equipos humanos y acciones vinculadas con
+dispositivos físicos.
+Utilicé OpenAI con tool calling y memoria conversacional para conectar la
+conversación con capacidades autorizadas, manteniendo la transferencia humana.
+
+### Voz en tiempo real · implementada y probada
+
+Durante mi etapa en Mobilec implementé y probé la experiencia de voz en un
+entorno controlado con Twilio Media Streams y WebSockets.
+
+### Agente virtual · operativo
+
+Agente virtual de Jit De Flou conectado a una bandeja de atención que permite
+tomar las conversaciones y continuarlas personalmente. El agente y la bandeja están operativos.
+Puede explorarse desde el [sitio público de Jit De Flou](https://jitdeflou.com).
+
+### TopBot · histórico
+
+Primer sistema conversacional propio: JavaScript y Node.js sobre Google Cloud.
+Nació como una automatización de seguimiento comercial y abrió la transición
+hacia desarrollo, APIs e infraestructura.
+
+## Decisiones y trade-offs
+
+- Separar la conversación de las integraciones críticas.
+- Mantener validación humana para acciones sobre dispositivos físicos.
+- Permitir desactivar capacidades opcionales, como voz o monitoreo proactivo,
+  sin detener el núcleo conversacional. Este alcance no implica tolerancia a
+  fallos de todos los componentes críticos.
+
+## Evidencia pública segura
+
+- Sistemas conversacionales en producción.
+- Integración entre IA, datos operativos, soporte humano y telemetría.
+- Implementación realtime probada en entorno controlado.
+- Sin código propietario, prompts operativos, payloads ni datos de clientes.
